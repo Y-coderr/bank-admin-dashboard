@@ -6,7 +6,7 @@ import Queries from "./pages/Queries"
 import FeedbackAnalysis from "./pages/FeedbackAnalysis"
 import { AuthProvider } from "./context/AuthContext"
 import ProtectedRoute from "./components/ProtectedRoute"
-
+//main app.jsx
 function App() {
   return (
     <AuthProvider>
